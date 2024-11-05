@@ -1,0 +1,1 @@
+Register about page text
