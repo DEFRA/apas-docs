@@ -8,7 +8,7 @@
 
 ## Privacy Statement
 
-JNCC is the public body that advises the UK Government and devolved administrations on UK-wide and international nature conservation.
+THIS TEXT IS ONLY A SAMPLE!!!  JNCC is the public body that advises the UK Government and devolved administrations on UK-wide and international nature conservation.
 
 Purpose
 This privacy notice tells you what to expect when the Joint Nature Conservation Committee (JNCC) collects and uses personal information for the Air Polution Assessment system. JNCC (as data controller) will only be collecting personal data for the Alpha and Beta phases of the Air Polution Assessment  system.
