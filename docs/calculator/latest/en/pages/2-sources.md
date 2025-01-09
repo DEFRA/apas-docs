@@ -16,7 +16,7 @@ To make comparative calculations, you need to input emission sources, associated
 
 You need to create a scenario with at least one emission source for each calculation. 
 
-You can choose from different types of scenario. 
+You can choose from different types of scenario. jon change
 
 **1. Reference**
 
