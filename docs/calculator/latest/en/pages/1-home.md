@@ -20,7 +20,7 @@ The service combines emissions from:
 - Defra's Emission Factor Toolkit (EFT) (v11.0)
 - Simple Calculation of Atmospheric Impact Limits (SCAIL)
 - background concentrations from Defra's background maps
-- dispersion modelling results from ADMS Urban. test
+- dispersion modelling results from ADMS Urban.
 
 Average deposition velocities are based on the values for tall and short vegetation recommended by the Air Quality Technical Advisory Group (AQTAG).
 
