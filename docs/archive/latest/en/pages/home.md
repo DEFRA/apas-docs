@@ -12,10 +12,3 @@ To view the archive, click on the archive button in the left-hand panel.
 
 You can return to the 'Get an air pollution assessment' page by clicking on 'Get an air pollution assessment archive' at the top of the Home page.
 
-## Contact us
-
-To contact our team for further help, you can:
-- call 0330 124 2162 (Monday to Friday, 9:00am to 5:00pm, except statutory holidays)
-- email ukapas@defra.gov.uk
-
-We aim to reply to your emails within 2 working days.

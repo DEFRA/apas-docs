@@ -1,0 +1,16 @@
+# Get help with this service
+
+We have a dedicated specialist air quality team who can be contacted through the following methods:
+
+### Phone
+**0330 124 2162** 
+
+Monday to Friday, 8:30am to 4pm (except statutory holidays)
+
+[Find out about call charges](https://www.gov.uk/call-charges)
+
+### Email
+get.an.air.pollution.assessment@defra.gov.uk 
+
+We aim to reply within 2 working days.
+

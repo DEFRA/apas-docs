@@ -2,16 +2,12 @@
 
 # Results
 
-- [Scenarios](#section1)
-- [Summary](#section2)
 - [Results](#section3)
 - [View](#section4)
     - [Percentage critical load or critical level (%CL) tab](#section4a)
     - [Distribution tab](#section4b)
     - [Markers tab](#section4c)
     - [Habitat and species tab](#section4d)
-    - [Summary table](#section4e)
-- [Contact us](#section5)
 
 The progress indicator shows how far the modelling calculation has progressed, where you are in the queue and the estimated time to completion. The message centre will show when the calculation has started and is complete.
 
@@ -20,18 +16,6 @@ You can switch between different calculation jobs using the drop down menu at th
 You can end the calculation with the 'Cancel calculation' button.
 
 <div id='section1'></div>
-
-## Scenarios
-
-On the 'Scenarios' tab, you can view a list of the scenarios included in the current calculation job. This includes your scenarios and any included from the archive.
-
-<div id='section2'></div>
-
-## Summary
-
-The 'Summary' tab displays a summary of the results of the current calculation job.
-
-<div id='section3'></div>
 
 ## Results
 
@@ -72,7 +56,7 @@ Results for each designated site are colour-coded on the map and summarised in a
 
 The PC or IPC is expressed as a percentage of the applicable critical level or critical load. This determines the main colour of the result, meaning either the colour of the hexagon for deposition or the colour of the dot for concentration.
 
-The total predicted environmental concentration or deposition level is also calculated for each hexagon or point, by adding the PC or IPC to the background pollution levels. The total is shown as a:
+The total predicted environmental concentration (PEC) or deposition level is also calculated for each hexagon or point, by adding the PC or IPC to the background pollution levels. The total is shown as a:
 - dark grey circle within the hexagon or a dark grey ring around the point if the total exceeds the minimum critical load or critical level of the site
 - light grey circle within the hexagon or a light grey ring around the point if the totl does not exceed the minimum critical load or critical level, but is close to exceeding it (between 80-100%)
 
@@ -103,25 +87,5 @@ You can use this tab to identify areas with key results for each designated site
 ### Habitat and species tab
 
 You can use this tab to view a more detailed breakdown of the individual features (habitats and species) within each site, including information about the CL applicable to each feature and a comparison of the calculation results with the CL.
-
-<div id='section4e'></div>
-
-### Summary table
-
-You can view tables that provide an overview of the results for all designated sites and scenarios included in a single calculation job. To do this click on 'Summary' at the top of the scenario results screen. The summary tables can be sorted by clicking on column headings, and you can use the tables to identify which scenarios are predicted to have the largest impact and at which designated sites.
-
-You can also review tables for the results that are typically used in the assessment process that represent the pollutant contribution associated with a plan or project. These are:
-- scenario contribution (SC) which shows results for all of the scenarios that were included in the calculation.
-- process contribution (PC) results
-
-<div id='section5'></div>
-
-## Contact us
-
-To contact our team for further help, you can:
-- call 0330 124 2162 (Monday to Friday, 9:00am to 5:00pm, except statutory holidays)
-- email ukapas@defra.gov.uk
-
-We aim to reply to your emails within 2 working days.
 
 [Return to top](#top)

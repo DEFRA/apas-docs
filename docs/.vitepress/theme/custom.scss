@@ -1,0 +1,38 @@
+@import "node_modules/govuk-frontend/dist/govuk/index.scss";
+
+:root {
+  --vp-font-family-base: "GDS Transport", Arial, Sans-Serif;
+  --vp-c-brand-darker: #0b0c0c;
+  --vp-c-brand-dark: #003078;
+  --vp-c-brand: #1d70b8;
+  --vp-c-brand-light: #0b0c0c80;
+  --vp-c-brand-lighter: #0b0c0c40;
+}
+
+h1 {
+  @extend .govuk-heading-l;
+}
+
+h2 {
+  @extend .govuk-heading-m;
+}
+
+h3, h4 {
+  @extend .govuk-heading-s;
+}
+
+p {
+  @extend .govuk-body-s;
+}
+
+a {
+  @extend .govuk-link;
+}
+
+ul {
+  @extend .govuk-list--bullet;
+}
+
+ol {
+  @extend .govuk-list--number
+}

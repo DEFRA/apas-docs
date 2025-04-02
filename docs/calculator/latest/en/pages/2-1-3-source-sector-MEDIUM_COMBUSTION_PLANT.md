@@ -1,1 +1,3 @@
-2-1-3-source-sector-MEDIUM_COMBUSTION_PLANT
+*The medium combustion plant option is currently preview only, it does not calculate emissions and will not be included in any calculations. This option is included to demonstrate how the service could be updated in the future to support the Medium Combustion Plant Directive (MCPD) by calculating emissions based on information entered by the user, such as fuel type and operating hours per year. The other 3 options in the energy sector group are fully functional and allow you to specify emissions of oxides of nitrogen  (NO<sub>x</sub>) and ammonia (NH<sub>3</sub>) in units of kilograms per year.*
+
+[Go to previous page](2-1-2-source-sector-group-ENERGY.md)

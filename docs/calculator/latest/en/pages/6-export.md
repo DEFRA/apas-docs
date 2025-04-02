@@ -11,14 +11,6 @@ When exporting a file, you must provide your email address. This is only used to
 
 Your can also download files directly by using the download link shown in the message centre when the files are ready.
 
-For calculations that are expected to take a while to run, or which will be assessed using external tools, you can use the 'Export Calculation job' option to start a calculation and create an exported GML file in one step. You can then exit the service. You will be notified by email when the calculation job is complete and the results can be downloaded. When using this option, the results can be viewed in external tools, such as QGIS, but cannot be loaded directly back into the service.
-
-## Contact us
-
-To contact our team for further help, you can:
-- call 0330 124 2162 (Monday to Friday, 9:00am to 5:00pm, except statutory holidays)
-- email ukapas@defra.gov.uk
-
-We aim to reply to your emails within 2 working days.
+For calculations that are expected to take a while to run, or which will be assessed using external tools, you can use the 'Export Calculation job' option to start a calculation and create an exported GML file in one step. You can then exit the service. You will be notified by email when the calculation job is complete and the results can be downloaded. When using this option, the results can be viewed in external tools, such as QGIS.
 
 [Return to top](#top)

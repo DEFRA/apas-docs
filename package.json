@@ -1,6 +1,10 @@
 {
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.60"
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0",
+    "sass": "^1.86.0",
+    "vitepress": "^1.6.3"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -8,7 +12,9 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "fs-extra": "^11.1.0",
-    "ora": "^6.1.2"
+    "fs-extra": "^11.3.0",
+    "govuk-frontend": "^5.9.0",
+    "gray-matter": "^4.0.3",
+    "ora": "^8.2.0"
   }
 }
