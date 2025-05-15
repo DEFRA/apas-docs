@@ -22,15 +22,15 @@ You can end the calculation with the 'Cancel calculation' button.
 Use the 'Scenario' dropdown to select the scenario you want to view results for.
 
 Use the 'Result' dropdown to select the type of result you want to see:
-- 'Scenario contribution' (SC) shows the calculation results for the selected scenario on its own - this type of result is available for all scenario types.
+- 'Scenario contribution' (SC) shows the calculation results for the selected scenario on its own - this type of result is available for all scenario types
 - 'Process contribution' (PC) allows you to visualise the pollutant contribution associated with your plan or project, as a standalone or in-isolation assessment - it is calculated as:
 
   > PC = (project scenario results) – (reference scenario results) – (off-site reduction results)
 
   If there is no Reference scenario or off-site reduction scenario included in the calculation, then the process contribution is simply equal to the scenario contribution. This type of result is only available for Project-type scenarios.
-
-- 'In combination' (IC) shows the total of the process contribution and any in-combination scenarios added.
-- 'Archive contribution' shows the contribution only from the archive scenarios added.
+  
+- 'In combination' (IC) shows the total of the process contribution and any in-combination scenarios added
+- 'Archive contribution' shows the contribution only from the archive scenarios added
 
 Use 'Pollutant' to select whether to view results for oxides of nitrogen (NO<sub>x</sub>) concentration, ammonia (NH<sub>3</sub>) concentration or nitrogen deposition.
 
@@ -61,8 +61,8 @@ The total predicted environmental concentration (PEC) or deposition level is als
 - light grey circle within the hexagon or a light grey ring around the point if the totl does not exceed the minimum critical load or critical level, but is close to exceeding it (between 80-100%)
 
 When viewing the %CL results on a map, it is possible to view both:
-- the contribution of the plan or project in isolation (PC) or in combination (IPC) as a percentage of the CL.
-- the total predicted concentration or deposition (PC + background levels, or IPC + background levels) as a percentage of the CL.
+- the contribution of the plan or project in isolation (PC) or in combination (IPC) as a percentage of the CL
+- the total predicted concentration or deposition (PC + background levels, or IPC + background levels) as a percentage of the CL
 
 The colours of the results, and the value categories on the x-axis of the bar graphs, change depending on whether you are viewing results for PC or IPC. The change in x-axis values recognises that different values of %CL may be considered acceptable depending on whether you are viewing results for an in-isolation assessment (PC results) or an in-combination assessment (IPC results).
 

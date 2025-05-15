@@ -17,6 +17,10 @@ h2 {
   @extend .govuk-heading-m;
 }
 
+div + h2 {
+  padding-top: 10px;
+}
+
 h3, h4 {
   @extend .govuk-heading-s;
 }
@@ -30,9 +34,23 @@ a {
 }
 
 ul {
+  @extend .govuk-body-s;
   @extend .govuk-list--bullet;
 }
 
 ol {
-  @extend .govuk-list--number
+  @extend .govuk-body-s;
+  @extend .govuk-list--number;
+}
+
+table {
+  @extend .govuk-table;
+
+  th {
+    @extend .govuk-table__header;
+  }
+
+  td {
+    @extend .govuk-table__cell;
+  }
 }

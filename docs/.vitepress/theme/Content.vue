@@ -10,7 +10,7 @@ const { Layout } = DefaultTheme;
     <div class="govuk-header__container govuk-width-container">
       <div class="govuk-header__logo">
         <a
-          href="https://www.gov.uk/guidance/get-an-air-pollution-assessment"
+          href="https://www.gov.uk/"
           class="govuk-header__link govuk-header__link--homepage"
         >
           <svg
@@ -31,7 +31,10 @@ const { Layout } = DefaultTheme;
         </a>
       </div>
       <div class="govuk-header__content">
-        <a href="/" class="govuk-header__link govuk-header__service-name">
+        <a
+          href="https://www.gov.uk/guidance/get-an-air-pollution-assessment"
+          class="govuk-header__link govuk-header__service-name"
+        >
           Get an air pollution assessment documentation
         </a>
       </div>

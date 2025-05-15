@@ -2,10 +2,10 @@
 
 The Farmland sector is broken down into:
 - farmland grazing
-- manure application (animal)
-- manure application (fertilizer)
+- organic fertiliser application
+- inorganic fertiliser application
 - organic processes
-- outdoor yards.
+- outdoor yards
 
 Farmland sources are broken down into subsources. Farmland grazing, manure application (animal) and outdoor yards use emission factors from the Simple Calculation of Atmospheric Impact Limits (SCAIL). If you don't want to use emission factors, select the 'Fireplaces, other' sector where the emissions can be inputted manually. 
 

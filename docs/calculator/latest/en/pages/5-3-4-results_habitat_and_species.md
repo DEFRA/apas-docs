@@ -1,4 +1,4 @@
-### Habitat and species
+## Habitat and species
 
 You can use this tab to view a more detailed breakdown of the individual features (habitats and species) within each site, including information about the CL applicable to each feature and a comparison of the calculation results with the CL. Use the drop down menu to compare against different results. 
 

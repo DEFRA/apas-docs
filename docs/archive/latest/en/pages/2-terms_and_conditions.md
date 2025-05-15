@@ -1,11 +1,10 @@
 **Information about the service**
 
-- [About the Application](about-the-application.md)
-- [Terms and Conditions](3-terms-and-conditions.md)
-- [Privacy Notice](4-privacy-statement.md)
-- [Cookie Policy](5-cookie-policy.md)
-- [Accessibility Statement](6-accessibility-statement.md)
-- [Data Licenses](data-license.md)
+- [About the Application](about.md)
+- [Terms and Conditions](2-terms_and_conditions.md)
+- [Privacy Notice](3-privacy_notice.md)
+- [Cookie Policy](4-cookie_policy.md)
+- [Accessibility Statement](5-accessibility_statement.md)
 
 # Terms and Conditions 
 
@@ -153,7 +152,7 @@ We remove content at our discretion. You can still request information under the
 
 ## Information about you and your visits to our pages 
 
-We collect information about you in accordance with our [privacy statement](4-privacy-statement.md) and [cookie policy](5-cookie-policy.md). By using the site, you agree to us collecting this information and confirm that any data you provide is accurate. 
+We collect information about you in accordance with our [privacy statement](3-privacy_notice.md) and [cookie policy](4-cookie_policy.md). By using the site, you agree to us collecting this information and confirm that any data you provide is accurate. 
 
 ## Virus Protection  
 

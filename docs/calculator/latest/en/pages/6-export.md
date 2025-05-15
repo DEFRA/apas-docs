@@ -3,11 +3,11 @@
 # Export
 
 You have 3 options for exporting your results:
-- **Input files:** - export a Geography Markup Language (GML) file containing all the information entered in the 'Input' section, such as emission sources and buildings.
-- **Calculation job:** - export a GML file containing all inputs, calculation settings and results associated with a single calculation job, including met data details. Use the 'Choose calculation job' dropdown to specify whether you would like to export a file based on a specific calculation job.
-- **Report** - export a report in PDF format for either process contribution or in-combination results, using the 'Report type' dropdown.
+- **Input files:** - export a Geography Markup Language (GML) file containing all the information entered in the 'Input' section, such as emission sources and buildings
+- **Calculation job:** - export a GML file containing all inputs, calculation settings and results associated with a single calculation job, including met data details. Use the 'Choose calculation job' dropdown to specify which calculation job you would like to export.
+- **Report** - export a report in PDF format for either process contribution or in-combination results, using the 'Report type' dropdown
 
-When exporting a file, you must provide your email address. This is only used to send you a link to download your file when it is ready and will not be kept for anything else.
+When exporting a file, you must provide your email address. This is to send a link to download your file when it is ready and will not be kept for anything else. Additionally, if an error occurs during the calculation and the application is closed an email will be sent to the email address you provide.
 
 Your can also download files directly by using the download link shown in the message centre when the files are ready.
 

@@ -11,6 +11,6 @@ To create a calculation job, enter the Name of the calculation and customise the
 
 ### Starting a calculation job
 
-Once you have finished selecting calculation job settings, start the current calculation job by clicking 'Calculate'. You will automatically be taken to the results screen. The current calculation job can also be exported by clicking 'Export this job'.
+Once you have finished selecting calculation job settings, start the current calculation job by clicking 'Calculate'. The current calculation job can also be exported by clicking the export symbol. You may click save to save a calculation job without running it.
 
 Large calculation jobs will take longer to run.

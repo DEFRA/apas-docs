@@ -28,7 +28,10 @@ You should use this for modelling the situation following the completion of a pr
 
 **4. Off-site reduction**
 
-Refers to a scenario where a nearby emission source is no longer operating. For example, if a neighbouring farm closes business and there is a resulting reduction in local emission sources.
+**This feature is not currently implimented in UK policy, however is currently commonly used in the Dutch version of the tool.**
+
+Refers to a scenario where a nearby emission source is no longer operating. For example, if a neighbouring farm closes business and there is a resulting reduction in local emission sources. The netting factor is the proportion of the off-site reduction that will be subtracted from the process contribution 
+
 
 **5. In-combination reference**
 
@@ -65,7 +68,7 @@ Every emission source will also have an associated time-varying profile. The pro
 - a week (split into Weekday, Saturday and Sunday)
 - a year (split into 12 months)
 
-Default diurnal profiles are assigned to each new emission source, depending on the sector the source is in. The predefined and custom time-varying profiles can be viewed by clicking or hovering over them under the Time-varying profiles menu or can be viewed when inputting the emission source(s). 
+Default time-varying profiles are assigned to each new emission source, depending on the sector the source is in. Predefined and custom time-varying profiles can be viewed by clicking or hovering over them under the Time-varying profiles menu or can be viewed when inputting the emission source(s). 
 
 To create a [new custom diurnal profile](2-3-1-tvp-diurnal-create.md), click on the clock icon. The calendar icon allows you to do the same for a [monthly profile](2-3-2-tvp-monthly-create.md). 
 
@@ -75,7 +78,8 @@ For further information about how time-varying profiles have been implemented in
 
 ## The Map
 
-Sources, assessment points and additional information can be viewed simultaneously by selecting the layers in the Layerpanel, found in the toolbar to the right of the map.
+Sources, custom assessment points and additional information can be viewed simultaneously by selecting the layers in the Layerpanel, found in the toolbar to the right of the map.
+For example, you can select a preferred map base layer which includes OS and OSNI maps.  
 
 **Please note that even when using Irish grid references, the map will display the cursor location according to the British National Grid in the bottom left corner.**
 

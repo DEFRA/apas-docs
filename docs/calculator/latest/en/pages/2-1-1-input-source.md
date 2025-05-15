@@ -1,5 +1,9 @@
 ## Emission Sources
 
+- [Location](#section1)
+- [Time-varying Profiles](#section2)
+
+### Scenario Types
 Emission sources are grouped into 5 sectors. Each of these sectors includes specific options and parameters to help you correctly define the emissions.
 
 - [energy](2-1-2-source-sector-group-ENERGY.md)
@@ -25,7 +29,7 @@ Every emission source will also have an associated time-varying profile. The pro
 - a week (split into Weekday, Saturday and Sunday)
 - a year (split into 12 months)
 
-By default, road transport sources in all years will be assigned diurnal time-varying profiles based on Department for Transport statistics for 2022 and a continuous monthly time-varying profile.
+By default, road transport sources in all years will be assigned diurnal time-varying profiles based on Department for Transport statistics and a continuous monthly time-varying profile.
 
 All other sectors have a continuous diurnal and monthly time-varying profile as default, indicating that the emissions do not vary over the course of the day or the week. 
 

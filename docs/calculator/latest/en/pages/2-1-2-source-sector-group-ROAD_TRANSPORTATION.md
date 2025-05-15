@@ -6,7 +6,7 @@ The 'Source characteristics' section allows you to enter information about barri
 
 ### Emission factors
 
-The 'Emission factor toolkit' (v11.0) option for a new subsource calculates oxides of nitrogen (NO<sub>x</sub>) and ammonia (NH<sub>3</sub>) emissions based on the number, type and speed of vehicles on a particular road that you enter. You can also enter your own emission factors using the 'custom specification' option.
+Within the 'Traffic direction speed and emission' tab you may add a new subsource which calculates oxides of nitrogen (NO<sub>x</sub>) and ammonia (NH<sub>3</sub>) emissions based on the number, type and speed of vehicles on a particular road that you enter. You can also enter your own emission factors using the 'custom specification' option.
 
 ### Time-varying profiles
 
