@@ -6,7 +6,7 @@
     - [New assessment point](#section1a)
     - [Determine automatically](#section1b)
 
-A default calculation in the service will include results for all designated nature conservation sites within 15km of the emission sources. This includes mapped datasets for:
+A default calculation in the service will include results for all designated nature conservation sites within the zone of influence around the emission sources. This includes mapped datasets for:
 - Special Areas of Conservation (SACs)
 - Special Protection Areas (SPAs)
 - Sites of Special Scientific Interest (SSSIs)
@@ -14,15 +14,15 @@ A default calculation in the service will include results for all designated nat
 
 You can also add your own assessment points (sometimes referred to as 'receptors' or 'calculation points').
 
-The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 200m x 200m) across the entire portion of the protected site located within 15km of the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
+The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 200m x 200m) across the entire portion of the protected sites within the zone of influence around the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
 
-The service does not automatically save your entered data. You can use the export functions to save all data from your current calculation in a format that can later be imported back again, for example if you need to make amendments or further calculations.
+The service does not automatically save your entered data. You can export you input data to save your work in a format that can later be reimported, for example if you need to make amendments or further calculations.
 
 <div id='section1'></div>
 
 ## Custom assessment points
 
-There are some cases where adding custom assessment points is useful, for example:
+In some cases adding custom assessment points is useful, for example:
 - to obtain a quick calculation result by defining a small number of assessment points - this approach can be used to sense-check the results before running a full calculation
 - to obtain calculation results outside of a designated site, for example to compare calculated results with monitoring data
 - to obtain calculation results for an ecological site that is not already loaded into the service, for example ancient woodlands or local wildlife sites
@@ -40,8 +40,8 @@ There are 2 options for creating new assessment points:
 When using the 'New assessment point' option, you can manually place custom assessment points by clicking on the map or entering coordinate information directly. Under the 'Point characteristics' heading, you can add custom heights and assign the points to a category (ecology, human health, monitoring or none).
 
 The method used to convert concentrations of oxides of nitrogen (NO<sub>x</sub>) to nitrogen dioxide (NO<sub>2</sub>) also depends on the sector group:
-- for the road transport sector group, the service uses the Defra NO<sub>x</sub> to NO<sub>2</sub> calculator (version 8.1)
-- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO2 concentrations, based on the Environment Agency's recommendation of assuming 70% conversion for assessments based on annual averages
+- for the road transport sector group, the service uses the Defra NO<sub>x</sub> to NO<sub>2</sub> calculator
+- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO<sub>2</sub> concentrations, based on the Environment Agency's recommendation of assuming 70% conversion for assessments based on annual averages
 
 You can specify a 'Custom primary NO<sub>2</sub> fraction (fNO<sub>2</sub>)' for each custom assessment point. This field is optional and can be left blank. Only expert users should edit this.
 
