@@ -1,4 +1,4 @@
-## Emission Source: Industry
+# Emission Source: Industry
 
 You should use this sector group for industrial emission sources that are not energy sources. Specify emissions in units of kilograms per year.
 
@@ -11,7 +11,7 @@ This sector includes following options:
 - metalworking industry
 - other
 
-### Source characteristics
+## Source characteristics
 
 Use the source characteristics panel to enter information about the emission source, such as the height and temperature.
 
