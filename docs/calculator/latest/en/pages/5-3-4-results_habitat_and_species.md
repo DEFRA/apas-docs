@@ -1,8 +1,9 @@
-## Habitat and species
+# Habitat and species
 
-You can use this tab to view a more detailed breakdown of the individual features (habitats and species) within each site, including information about the CL applicable to each feature and a comparison of the calculation results with the CL. Use the drop down menu to compare against different results. 
+See the [results](5-results.md) page of the guide for an overview of the results tab.
 
-The nitrogen sensitivity of each of the habitats and species on the map can be viewed on the map. Here, the lower critical load (Kg/N/Ha/y) habitat/species are shown in a light pink whilst the higher critical load (Kg/N/Ha/y) are shown in dark blue. A legend is available in the map layer under 'Nitrogen-sensitivity relevant habitats and species.
+You can use this tab to view a more detailed breakdown of the individual features (habitats and species) within each site, including information about the critical level or critical load (CL) applicable to each feature. Use the drop-down menu to compare the CL against different results. 
 
-<div id='section4e'></div>
+The nitrogen sensitivity of each of the habitats and species is also displayed on the map. A legend is available in the map layer menu under 'Nitrogen-sensitivity relevant habitats and species'.
 
+Not all designated sites have been assigned nitrogen sensitive habitats or species and not all habitats and species have assigned CL values. If you are unsure about whether a site is nitrogen sensitive or not or unsure about the CL assigned to a site, contact the statutory nature body relevant to that site for site-specific advice. 
