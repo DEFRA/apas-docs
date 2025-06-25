@@ -71,7 +71,7 @@ All efforts are made to align data updates for information available on other se
 
 ## Linking to the Get an air pollution assessment 
 
-We welcome and encourage other websites to link to the Get an air pollution service. 
+We welcome and encourage other websites to link to the Get an air pollution assessment service. 
 
 You must contact us for permission if you want to either: 
 
