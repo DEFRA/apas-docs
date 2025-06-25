@@ -9,13 +9,13 @@
 
 # Cookie Policy
 
-The 'Get and Air Pollution Assessment' service puts small files (known as ‘cookies’) onto your computer to collect information about how you use the service. Find out more about the cookies we use, what they’re for and when they expire.
+The 'Get an air pollution assessment' service puts small files (known as ‘cookies’) onto your computer to collect information about how you use the service. Find out more about the cookies we use, what they’re for and when they expire.
 
 ### Strictly necessary cookies
 
 **Your progress**
 
-When you use the 'Get and Air Pollution Assessment' service, we’ll set a cookie to remember your progress through the service. These cookies do not store your personal data and are deleted once you’ve completed visit and closed your browser window.
+When you use the 'Get an air pollution assessment' service, we’ll set a cookie to remember your progress through the service. These cookies do not store your personal data and are deleted once you’ve completed visit and closed your browser window.
 
 | Name | Purpose | Expires |
 | ------- | ------- | ------- |
@@ -23,7 +23,7 @@ When you use the 'Get and Air Pollution Assessment' service, we’ll set a cooki
 
 **Language**
 
-The 'Get and Air Pollution Assessment' service has the ability for multi-language and this cookie saves which language a user has chosen in the interface, if it is available.
+The 'Get an air pollution assessment' service has the ability for multi-language and this cookie saves which language a user has chosen in the interface, if it is available.
 
 | Name | Purpose | Expires |
 | ------- | ------- | ------- |
@@ -31,7 +31,7 @@ The 'Get and Air Pollution Assessment' service has the ability for multi-languag
 
 **Cookies message**
 
-You may see a cookie banner when you visit the 'Get and Air Pollution Assessment' service, inviting you to accept cookies or review your settings. This cookie ensures that your computer knows you’ve seen it and not to show it again, and also to remember your cookie preferences. This cookie is set by the website [CivicUK](https://www.civicuk.com/cookie-control). 
+You may see a cookie banner when you visit the 'Get an air pollution assessment' service, inviting you to accept cookies or review your settings. This cookie ensures that your computer knows you’ve seen it and not to show it again, and also to remember your cookie preferences. This cookie is set by the website [CivicUK](https://www.civicuk.com/cookie-control). 
 
 | Name | Purpose | Expires |
 | ------- | ------- | ------- |
@@ -39,7 +39,7 @@ You may see a cookie banner when you visit the 'Get and Air Pollution Assessment
 
 ### Cookies that measure website use
 
-We use Google Analytics cookies to collect information about how you use the 'Get and Air Pollution Assessment' service. We use the information to compile reports on the number of visitors, the pages they visit and the time they spend, help us improve the service.
+We use Google Analytics cookies to collect information about how you use the 'Get an air pollution assessment' service. We use the information to compile reports on the number of visitors, the pages they visit and the time they spend, help us improve the service.
 
 We use the following Google Analytics cookies:
 
@@ -47,7 +47,7 @@ We use the following Google Analytics cookies:
 | ------- | ------- | ------- |
 | _ga | These help us count | 2 years |
 
-You can opt out of Google Analytics cookies on the 'Get and Air Pollution Assessment' service website by clicking on the blue "C" icon in the botom right corner of any page or by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+You can opt out of Google Analytics cookies on the 'Get an air pollution assessment' service website by clicking on the blue "C" icon in the bottom right corner of any page or by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 You can read Google’s overview of [data practices within Google Analytics](https://support.google.com/analytics/answer/6004245).
 
@@ -55,4 +55,4 @@ Other government digital services also use Google Analytics cookies to collect i
 
 ### Privacy
 
-The 'Get and Air Pollution Assessment' service [Privacy Notice](https://docs-air-dev.aws.defra.cloud/content/4-privacy-statement.raw.html) has more information about the data we collect.
+The 'Get an air pollution assessment' service [Privacy Notice](https://docs-air-dev.aws.defra.cloud/content/4-privacy-statement.raw.html) has more information about the data we collect.
