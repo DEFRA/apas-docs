@@ -12,10 +12,10 @@ The columns of the table contain information about the projects:
 * **Project or plan status** - whether the project has been approved, is pending a decision, or has been rejected, withdrawn or deleted
 * **Project or plan location** - England, Scotland, Wales or Northern Ireland
 * **Approving regulatory authority** - the organisation that added the project to the archive. In the case of planning applications, the regulatory body will most likely be the local planning authority that the application was submitted to. For other applications, this could be the Environment Agency, Defra, Natural England, the devolved governments or others
-* **Project or plan type** - specifies the main type of activity associated with the project. The options are: agriculture (tractor symbol), energy (powerstation symbol), traffic (motorway symbol), industry (smokestack symbol), or other (three dots)
+* **Project or plan type** - specifies the main type of activity associated with the project. The options are: agriculture (tractor symbol), energy (power station symbol), traffic (motorway symbol), industry (smokestack symbol), or other (three dots)
 * **In-combination distance** - the area within which the in-combination impacts of the project should be considered for any new applications. The options are: 5 km, 7.5 km, 10 km or 15 km
 * **Operational year of project or plan** - the year used for the assessment of the impacts of the project
-* **In-combination status** - whether a project should be included or excluded from an in-combination assessment. In most cases, a project should display a checkmark to indicate that it should be included in an in-combination assessment. However, there may be specific cases where a regulatory body makes a decision to exclude a project from in-combination assessments. For example, there may be cases where a project has been approved by regulators but then construction on the project is stalled indefinitely. In this case, the regulatory body may consider it unlikley that the project will ever become operational and they may wish to exclude it from future in-combination assessments.
+* **In-combination status** - whether a project should be included or excluded from an in-combination assessment. In most cases, a project should display a checkmark to indicate that it should be included in an in-combination assessment. However, there may be specific cases where a regulatory body decides to exclude a project from in-combination assessments. For example, there may be cases where a project has been approved by regulators but then construction on the project is stalled indefinitely. In this case, the regulatory body may consider it unlikely that the project will ever become operational and they may wish to exclude it from future in-combination assessments.
 * **Permit reference** - if relevant, the environmental permit reference number
 * **Planning reference** - if relevant, the planning application reference number
 
@@ -29,21 +29,19 @@ You can download the list of selected projects by clicking on the 'Download CSV'
 
 ## In-combination assessments
 
-The Get an air pollution assessment service will include projects from the archive in an in-combination assessment if all of the following conditions are met:
-* The project in the archive is physically located in proximity to a plan or project that is going through the assessment process, i.e. the distance between the archive project and the project undergoing the in-combination assessment is less than the in-combination distance of the archive project
+The Get an air pollution assessment service will include projects from the archive in an in-combination assessment if all the following conditions are met:
+* The project in the archive is physically located in proximity to a plan or project that is going through the assessment process, i.e. the archive project is within the zone of influence of the main project
 * The project in the archive is not yet fully operational, i.e. the year by which the archive project would be considered to be included in the background pollutant maps has not yet passed
 * The project in the archive has not been explicitly excluded from in-combination assessments, i.e. it displays a checkmark in the final column of the table
 
-**Please note: In-combination assessments are only valid at the time of calculation and maybe subject to change**
+*Note that in-combination assessments are only valid at the time of calculation and maybe subject to change.*
 <div id='section2'></div>
 
 ## New project
 
-To add a new project to the archive, you can click on the 'add project' button in the top right of the table. When adding the name, you should use the naming convention “Local Authority, Project Name”.
+To add a new project to the archive, you can click on the 'add project' button in the top right of the table. When adding the name, you should use the naming convention “Local Authority, Project Name”. The project name will be publicly displayed in the archive and in any in-combination assessments that include the project. 
 
-Once a project is uploaded it is immediately available to be used in an in-combination assessment. 
-
-**Please note: the project name will be publicly displayed in the archive.**
+Once a project is uploaded, it is immediately available to be used in in-combination assessments. 
 
 <div id='section3'></div>
 
