@@ -12,7 +12,7 @@ These terms and conditions and any pages they link to (which you: (i) confirm yo
 
 ## Who We Are 
 
-The Get an air pollution assessment is operated by Department for Environment, Food & Rural Affairs (Defra) which will be referred to as ‘we’ or ‘us’ from now on. The Get an air pollution assessment service and the associated web pages ([service start page](https://www.gov.uk/guidance/get-an-air-pollution-assessment) ,[calculator](https://get-an-air-pollution-assessment.service.gov.uk) and [archive](https://get-an-air-pollution-assessment-archive.service.gov.uk)) we operate will be referred to as ‘the service’. 
+The Get an air pollution assessment is operated by Department for Environment, Food & Rural Affairs (Defra) which will be referred to as ‘we’ or ‘us’ from now on. The Get an air pollution assessment service and the associated web pages ([service start page](https://www.gov.uk/guidance/get-an-air-pollution-assessment) ,[calculator](https://get-an-air-pollution-assessment.service.gov.uk) and [archive](https://archive.get-an-air-pollution-assessment.service.gov.uk/)) we operate will be referred to as ‘the service’. 
 
 ## Using the Service 
 
