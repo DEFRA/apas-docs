@@ -8,11 +8,11 @@
 
 # Terms and Conditions 
 
-These terms and conditions and any pages they link to (which you: (i) confirm you have read and understood: and (ii) agree are incorporated by reference) detail the UK’s Get an Air Pollution Assessment terms and conditions of use. By using the service, you agree to be bound by these terms and conditions. 
+These terms and conditions and any pages they link to (which you: (i) confirm you have read and understood: and (ii) agree are incorporated by reference) detail the UK’s Get an air pollution assessment terms and conditions of use. By using the service, you agree to be bound by these terms and conditions. 
 
 ## Who We Are 
 
-The Get an Air Pollution Assessment is operated by Department for Environment, Food & Rural Affairs (Defra) which will be referred to as ‘we’ or ‘us’ from now on. The Get an Air Pollution Assessment service and the associated web pages ([service start page](https://www.gov.uk/guidance/get-an-air-pollution-assessment) ,[calculator](https://get-an-air-pollution-assessment.service.gov.uk) and [archive](https://get-an-air-pollution-assessment-archive.service.gov.uk)) we operate will be referred to as ‘the service’. 
+The Get an air pollution assessment is operated by Department for Environment, Food & Rural Affairs (Defra) which will be referred to as ‘we’ or ‘us’ from now on. The Get an air pollution assessment service and the associated web pages ([service start page](https://www.gov.uk/guidance/get-an-air-pollution-assessment) ,[calculator](https://get-an-air-pollution-assessment.service.gov.uk) and [archive](https://archive.get-an-air-pollution-assessment.service.gov.uk/)) we operate will be referred to as ‘the service’. 
 
 ## Using the Service 
 
@@ -28,11 +28,11 @@ The service uses the following data sets under OGL sharing agreements:
 
 - UK agricultural emission factors 
 
-- Nitrogen oxides (NOx) and nitrogen dioxide (NO2) background maps (including Scotland’s NOx background map) 
+- Nitrogen oxides (NO<sub>x</sub>) and nitrogen dioxide (NO<sub>2</sub>) background maps (including Scotland’s NO<sub>x</sub> background map) 
 
 - NH3 background concentration and Concentration Based Estimated Deposition (CBED) for Ammonia and Nitrogen 
 
-- Road emissions of NOx, the Emission Factors Toolkit 
+- Road emissions of NO<sub>x</sub>, the Emission Factors Toolkit 
 
 - Road traffic estimates diurnal profiles 
 
@@ -66,11 +66,11 @@ We make most of the content on the service available through feeds for other web
 
 We shall take all reasonable steps to ensure that the data is accurate and up to date. However, we cannot provide guarantees, conditions or warranties as to the accuracy of the data provided. All data is presumed as accurate at the time of use. 
 
-All efforts are made to align data updates for information available on other services (eg Air Pollution Information Service) however there may be lag times between updates across services we have no control over. 
+All efforts are made to align data updates for information available on other services (e.g. Air Pollution Information Service) however there may be lag times between updates across services we have no control over. 
 
 ## Linking to the Get an Air Pollution Assessment 
 
-We welcome and encourage other websites to link to the Get an Air Pollution service. 
+We welcome and encourage other websites to link to the Get an air pollution assessment service. 
 
 You must contact us for permission if you want to either: 
 
@@ -122,7 +122,7 @@ This includes (but isn’t limited to) the loss of your:
 
 - data 
 
--goodwill or reputation 
+- goodwill or reputation 
 
 - tangible property 
 
@@ -148,7 +148,7 @@ You can ask for content to be removed from the service. We will only do this in 
 
 Contact us to ask for content to be removed. You will need to send us the web address (URL) of the content and explain why you think it should be removed. We will reply to let you know whether we will remove it. 
 
-We remove content at our discretion. You can still request information under the Freedom of [Information Act](https://www.gov.uk/make-a-freedom-of-information-request) and the [Data Protection Act](https://www.gov.uk/data-protection). 
+We remove content at our discretion. You can still request information under the [Freedom of Information Act](https://www.gov.uk/make-a-freedom-of-information-request) and the [Data Protection Act](https://www.gov.uk/data-protection). 
 
 ## Information about you and your visits to our pages 
 

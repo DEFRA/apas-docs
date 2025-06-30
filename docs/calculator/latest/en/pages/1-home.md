@@ -3,9 +3,10 @@
 # Home
 
 - [What the service does](#section1)
-- [Start](#section2)
-  - [Create a new scenario](#section2a)
-  - [Import existing files](#section2b)
+- [How to use this guide](#section2)
+- [Start](#section3)
+  - [Create a new scenario](#section3a)
+  - [Import existing files](#section3b)
 
 <div id='section1'></div>
 
@@ -17,21 +18,27 @@ The service uses computer models (ADMS-Urban) to calculate the air pollutant emi
 - the air quality impacts of the traffic associated with a new residential development
 - the difference between existing farm operations and those associated with a planned expansion or renovation
 
-For more information on the data used in the tool, please see the 'Data Licenses' page in the About section. 
+For more information on the data used in the tool, please see the [Data Licenses](../content/data-license.md) page in the About section. 
 
 <div id='section2'></div>
+
+## How to use this guide
+
+If you are new to the 'Get an air pollution assessment' service, we recommend leaving this guide open as you work through your first assessment. The page shown here will change to match the tab you are using as you move through the service. You can also use the table of contents to choose which page to view.
+
+<div id='section3'></div>
 
 ## Start
 
 From the Home screen, you can select whether you want to start by creating a new scenario or importing existing files.
 
-<div id='section2a'></div>
+<div id='section3a'></div>
 
 ### Create a new scenario
 
-Click the button that says 'create a new scenario'. This enables a new scenario to be created manually. 
+Click the 'create a new scenario' button. This enables a new scenario to be entered manually. 
 
-<div id='section2b'></div>
+<div id='section3b'></div>
 
 ### Import existing files
 To import an existing file, drag the required file into the box or click browse.
@@ -41,7 +48,7 @@ You can import the following file types:
 - .zip
 - .upl
 
-If you wish to import files from an existing model (e.g. ADMS), there are 2 options available:
+There are two import options available:
 - basic
 - advanced
 
@@ -49,7 +56,7 @@ If you wish to import files from an existing model (e.g. ADMS), there are 2 opti
 
 This mode allows you to upload individual files that contain information about one or more scenarios.
 
-This is the default mode when you use the service for the first time. When you upload a file it will appear as a new line. You can then click the arrow to the left of the file name to see the file details, such as the number of emission sources or buildings.
+This is the default mode when you use the service for the first time. When you upload a file, it will appear as a new line. You can then click the arrow to the left of the file name to see the file details, such as the number of emission sources or buildings.
 
 #### Advanced import mode
 

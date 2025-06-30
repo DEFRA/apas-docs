@@ -1,13 +1,11 @@
-## Decision Framework 
+# Decision Framework 
 
-The decision framework tab allows suggestions of if your scenario meets any decision-making thresholds or site-relevant thresholds.  
+This tab shows if your scenario exceeds any decision-making thresholds or site-relevant thresholds.  
 
-The decision-making thresholds section states the process contribution (PC) and the decision-making thresholds (DMT), which is dependent on the habitat type. These values are then used in the following equation to give the percentage comparison with threshold (%CT).  This can be viewed for nitrogen deposition, NO<sub>x</sub> concentration and NH<sub>3</sub> concentration.  
+The decision-making thresholds section compares the process contribution (PC) and the decision-making thresholds (DMT). The DMT value is dependent on the habitat type. These values are then used in the following equation to give the percentage comparison with the threshold (%CT):
 
-> %CT = PC/DMT x100
- 
- 
+> %CT = PC/DMT x 100
 
-A %CT value of larger than 100% suggests your process contribution result requires further assessment, this can be viewed in the in the site-relevant section threshold. The site-relevant threshold section breaks down the %CT by assessment point allowing you to view if any specific sites reach the site-relevant threshold.  
+A %CT value of larger than 100% indicates your process contribution result requires further assessment, this can be viewed in the in the site-relevant threshold (SRT) section. The site-relevant threshold section compares the PC to the SRT, which depends on the development pressure class and the habitat type, and is assessed for each designated site separately.
 
-For specific advice about the proposal please refer to guidance from your relevant regulatory body.   
+For specific advice about the proposal please refer to guidance from your relevant regulatory body.

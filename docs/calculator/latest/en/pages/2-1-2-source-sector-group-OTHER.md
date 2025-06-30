@@ -1,4 +1,4 @@
-## Emission Source: Other
+# Emission Source: Other
 
 Use this  for emission sources that do not fit into any of the other sector groups. This can be used to add emissions defined by the user. 
 
