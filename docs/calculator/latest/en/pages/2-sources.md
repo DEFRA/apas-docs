@@ -43,7 +43,7 @@ Can be used as part of an in-combination assessment.
 
 **6. In-combination project**
 
-Can be used to represent the proposed situation for nearby emission sources. Just as a user can create a 'Reference' and 'Project' scenario for their own plan or project, they can also create 'In-combination reference' and 'In-combination project' scenarios for nearby plans and projects that should be included in the in-combination assessment.
+Can be used to represent the proposed situation for nearby emission sources. Just as you can create a 'Reference' and 'Project' scenario for your own plan or project, you can also create 'In-combination reference' and 'In-combination project' scenarios for nearby plans and projects that should be included in the in-combination assessment.
 
 <div id='section2'></div>
 
