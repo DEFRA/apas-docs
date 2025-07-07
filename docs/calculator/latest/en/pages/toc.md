@@ -6,7 +6,7 @@
   - [Emission sources](2-1-1-input-source.md)
       - [Agriculture](2-1-2-source-sector-group-AGRICULTURE.md)
           - [Animal housing](2-1-3-source-sector-FARM_ANIMAL_HOUSING.md)
-          - [Manure storage](2-1-3-source-sector-MANURE_STORAGE.md)
+          - [Litter/manure storage](2-1-3-source-sector-MANURE_STORAGE.md)
           - [Farmland](2-1-3-source-sector-FARMLAND.md)
       - [Energy](2-1-2-source-sector-group-ENERGY.md)
       - [Traffic](2-1-2-source-sector-group-ROAD_TRANSPORTATION.md)
