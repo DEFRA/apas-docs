@@ -17,7 +17,7 @@ You need to create a scenario with at least one emission source for each calcula
 
 ## Scenario types
 
-You can choose from different types of scenario, depending on the project you are modelling.
+You can choose from different types of scenario depending on the project you are modelling.
 
 **1. Reference**
 
@@ -33,7 +33,7 @@ You should use this for modelling the situation following the completion of a pr
 
 **4. Off-site reduction**
 
-*This scenario type is not currently implemented in UK policy, but is used in the Dutch version of this service.*
+*This scenario type is not currently implemented in UK policy but is used in the Dutch version of this service.*
 
 Refers to a scenario where a nearby emission source is no longer operating. For example, if a neighbouring farm closes business and there is a resulting reduction in local emission sources. The netting factor is the proportion of the off-site reduction that will be subtracted from the process contribution.
 
@@ -43,7 +43,7 @@ Can be used as part of an in-combination assessment.
 
 **6. In-combination project**
 
-Can be used to represent the proposed situation for nearby emission sources. Just as a user can create a 'Reference' and 'Project' scenario for their own plan or project, they can also create 'In-combination reference' and 'In-combination project' scenarios for nearby plans and projects that should be included in the in-combination assessment.
+Can be used to represent the proposed situation for nearby emission sources. Just as you can create a 'Reference' and 'Project' scenario for your own plan or project, you can also create 'In-combination reference' and 'In-combination project' scenarios for nearby plans and projects that should be included in the in-combination assessment.
 
 <div id='section2'></div>
 
@@ -67,7 +67,7 @@ To [input a new building](2-2-building-create.md), click on the 'New building' b
 
 ### Time-varying profiles
 
-Every emission source will also have an associated time-varying profile. The profile describes how the emissions from a source vary over time.
+Every emission source will also have associated time-varying profiles. The profiles describe how the emissions from a source vary over time.
 
 Default time-varying profiles are assigned to each new emission source, depending on the sector the source is in. Predefined and custom time-varying profiles can be viewed by clicking or hovering over them under the Time-varying profiles menu or can be viewed when inputting the emission sources. 
 
@@ -82,6 +82,6 @@ For further information about how time-varying profiles have been implemented in
 Sources, custom assessment points and additional information can be viewed simultaneously by selecting the layers in the Layerpanel, found in the toolbar to the right of the map.
 For example, you can select a preferred map base layer which includes OS and OSNI maps.  
 
-**Please note that even when using Irish grid references, the map will display the cursor location according to the British National Grid in the bottom left corner.**
+*Please note that even when inputting coordinates using Irish grid references, the map will display the cursor location according to the British National Grid in the bottom left corner.*
 
 [Return to top](#top)

@@ -1,8 +1,12 @@
 # Emission Source: Traffic
 
-## Road barriers
+## Source characteristics
 
-Use the source characteristics panel to enter information about barriers which could affect the spread of pollution away from roads, such as noise barriers, buildings, vegetation or tree belts. These are often known as 'street canyon effects.' The barriers on the left and right sides of the road are specified separately. The left and right sides are based on direction of travel from point A to point B on the road link as seen on the map. Suggested default porosity values are provided based on the type of road barrier but you can enter custom values. 
+Use the source characteristics panel to enter information about road width, elevation above ground level, road gradient and barriers.
+
+### Road barriers
+
+Road barriers, such as noise barriers, buildings, vegetation or tree belts, can affect the spread of pollution away from roads. These are often known as 'street canyon effects.' The barriers on the left and right sides of the road are specified separately. The left and right sides are based on direction of travel from point A to point B on the road link as seen on the map. Suggested default porosity values are provided based on the type of road barrier but you can enter custom values. 
 
 ## Emission factors
 
