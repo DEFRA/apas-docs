@@ -1,8 +1,0 @@
-*.log
-*.tgz
-.vite_opt_cache
-.vscode
-dist
-cache
-examples-temp
-node_modules

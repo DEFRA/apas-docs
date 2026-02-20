@@ -36,12 +36,49 @@ export async function generateRawHtmlFiles(siteConfig) {
   );
 }
 
-export async function copyFontFiles(siteConfig) {
-  await fs.copy('node_modules/govuk-frontend/dist/govuk/assets/fonts/', 'docs/.vitepress/dist/assets/fonts/')
-  .then(() => {
-    console.log('successfully copied fonts')
-  })
-  .catch(err => {
-    console.error(err)
-  });
+export async function generateRawManifest(siteConfig) {
+  const rootUrl = fileURLToPath(import.meta.url);
+  const rootDir = join(path.dirname(rootUrl), "..");
+  const outDir = siteConfig.outDir;
+
+  async function listRawHtmlFiles(dir) {
+    const result = [];
+    const entries = await fs
+      .readdir(dir, { withFileTypes: true })
+      .catch(() => []);
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        const nested = await listRawHtmlFiles(full);
+        for (const n of nested) {
+          result.push(n);
+        }
+      } else if (
+        entry.isFile() &&
+        entry.name.toLowerCase().endsWith(".raw.html")
+      ) {
+        result.push(full);
+      }
+    }
+    return result;
+  }
+
+  const absFiles = await listRawHtmlFiles(outDir);
+  const items = absFiles
+    .map((abs) => {
+      const rel = path.relative(outDir, abs).split(path.sep).join("/");
+      return "/" + rel.replace(/^\/*/, "");
+    })
+    .sort((a, b) =>
+      a.localeCompare(b, "en", { numeric: true, sensitivity: "base" })
+    );
+
+  const target = path.join(outDir, "raw-manifest.json");
+  await fs.ensureDir(path.dirname(target));
+  const payload = { generatedAt: new Date().toISOString(), items };
+  await fs.writeFile(target, JSON.stringify(payload, null, 2), "utf8");
+  siteConfig.logger.info(
+    `raw-manifest.json written to ${target.replace(rootDir, "")}`
+  );
 }
+

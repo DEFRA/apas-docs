@@ -7,6 +7,10 @@ customHeaders:
     headers:
       - key: Access-Control-Allow-Origin
         value: "*"
+  - pattern: "/raw-manifest.json"
+    headers:
+      - key: Access-Control-Allow-Origin
+        value: "*"
   - pattern: "**/*"
     headers:
       - key: Cache-Control
