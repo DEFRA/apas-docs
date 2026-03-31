@@ -13,8 +13,8 @@ The Defra-owned ‘Get an air pollution assessment’ service, known as the UK A
 
 Being an integrated online tool, it aims to modernise and simplify air pollution assessments for sensitive habitats. It provides the mechanism to assess applications punctually and consistently, to facilitate timely decision making. It pulls together the necessary data, along with the modelling package needed to make an air pollution assessment for your permit and planning applications.  
 
-‘Get an air pollution assessment’ will enable you to consider several different scenarios before choosing the most appropriate option to submit to the planning authority/regulator. The application can then be determined by the authority/regulator for acceptance or rejection. 
+‘Get an air pollution assessment’ will enable you to consider several different scenarios before choosing the most appropriate option to submit to the planning authority or regulator. The application can then be determined by the authority or regulator for acceptance or rejection. 
 
-Upon the review of the application the planning authority/regulator, the in-combination archive will store the results of approved and pending applications. This ensures that the emissions database is fully up to date for inclusion in other planning/permitting applications, allowing in-combination assessments to be completed. 
+Upon the review of the application the planning authority or regulator, the in-combination archive will store the results of approved and pending applications. This ensures that the emissions database is fully up to date for inclusion in other planning and permitting applications, allowing in-combination assessments to be completed. 
 
  
