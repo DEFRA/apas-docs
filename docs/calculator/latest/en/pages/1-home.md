@@ -46,7 +46,7 @@ You can import the following file types:
 - .gml (Geography Markup Language)
 - .pdf
 - .zip
-- .upl
+- .upl - *this format is not fully supported, please check that your inputs are imported as expected before running your calculation*
 
 There are two import options available:
 - basic
@@ -64,7 +64,7 @@ This mode allows you to specify what to do with each scenario as they are import
 
 You can select the Advanced import mode option in Preferences. When you upload a new file, each scenario will appear as a separate line, even if multiple scenarios are contained within the original file.
 
-You can choose how to use each scenario. The options are:
+You can choose how to use each scenario, for example:
 - import it as a new scenario
 - add it to an existing scenario that has already been created or imported
 - merge it with another scenario that is being imported at the same time
