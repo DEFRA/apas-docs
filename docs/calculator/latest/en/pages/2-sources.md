@@ -17,7 +17,9 @@ You need to create a scenario with at least one emission source for each calcula
 
 ## Scenario types
 
-You can choose from different types of scenario depending on the project you are modelling.
+You can choose from different types of scenario depending on the project you are modelling. 
+
+For more detail, [watch this video](https://www.youtube.com/watch?v=-8B3_9F_pYU) explaining the different scenario and calculation job types and what kinds of projects they might be used for.
 
 **1. Reference**
 
@@ -73,7 +75,7 @@ Default time-varying profiles are assigned to each new emission source, dependin
 
 To create a [new custom diurnal profile](2-3-1-tvp-diurnal-create.md), click on the clock icon. The calendar icon allows you to do the same for a [monthly profile](2-3-2-tvp-monthly-create.md). 
 
-For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS-Urban user guide](https://www.cerc.co.uk/environmental-software/assets/data/doc_userguides/CERC_ADMS-Urban5.0_User_Guide.pdf) (section 4.1.1 of the guide).
+For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS-Urban user guide](https://www.cerc.co.uk/environmental-software/assets/data/doc_userguides/CERC_ADMS-Urban5.1_User_Guide.pdf) (section 4.1.1 of the guide).
 
 <div id='section3'></div>
 
