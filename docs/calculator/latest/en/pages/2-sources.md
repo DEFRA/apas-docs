@@ -84,6 +84,8 @@ For further information about how time-varying profiles have been implemented in
 Sources, custom assessment points and additional information can be viewed simultaneously by selecting the layers in the Layerpanel, found in the toolbar to the right of the map.
 For example, you can select a preferred map base layer which includes OS and OSNI maps.  
 
+For more detail on the map layer options, [watch this video](https://www.youtube.com/watch?v=ea7Y7F85dPo).
+
 *Please note that even when inputting coordinates using Irish grid references, the map will display the cursor location according to the British National Grid in the bottom left corner.*
 
 [Return to top](#top)
