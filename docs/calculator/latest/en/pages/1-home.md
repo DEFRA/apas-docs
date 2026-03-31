@@ -26,6 +26,8 @@ For more information on the data used in the tool, please see the [Data Licenses
 
 If you are new to the 'Get an air pollution assessment' service, we recommend leaving this guide open as you work through your first assessment. The page shown here will change to match the tab you are using as you move through the service. You can also use the table of contents to choose which page to view.
 
+To see an example of setting up and running a calculation using this service, [watch this video](https://www.youtube.com/watch?v=YERDjDh18Os).
+
 <div id='section3'></div>
 
 ## Start
