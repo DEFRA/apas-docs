@@ -16,11 +16,10 @@ A number of data licenses are held in the tool, this includes the following:
 - [Calculator for Road Emissions of Ammonia (CREAM v2A)](https://www.aqconsultants.co.uk/resources) owned and provided by Air Quality Consultants (AQC) Ltd
 - The [Atmospheric Dispersion Modelling System (ADMS) – Urban](https://www.cerc.co.uk/environmental-software/ADMS-Urban-model.html) used in the service has a specific licence agreement with its owners CERC Ltd. that authorises its use within the service. Users can only access the modelling capability through the Get an air pollution assessment calculator user interface
 - The meteorological data is used in calculations within the service and all outputs from those calculations are free to use and distribute but resale or distribution of the data in original form is not permitted
-- [OSNI Fusion background map]
 
 In addition, the service uses the following data sets under [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/open-government-licence.htm) (OGL) sharing agreements and is subject to [Crown copyright protection](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) , this is highlighted in the [terms and conditions](3-terms-and-conditions.md) and includes:
 
--	[Emission factors for poultry and cattle sources](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) from Environment Agency
+-	[Emission factors for pig and poultry](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) from Environment Agency
 -	UK agricultural emission factors from [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/cgi-bin/agriculture/input.pl) by UK Centre for Ecology and Hydrology (UKCEH)
 -	Nitrogen oxides (NO<sub>x</sub>) and nitrogen dioxide (NO<sub>2</sub>) [background maps](https://uk-air.defra.gov.uk/data/laqm-background-maps?year=2021) (2021) from Local Air Quality Management (LAQM)
 -	Nitrogen oxides (NO<sub>x</sub>) and nitrogen dioxide (NO<sub>2</sub>) [background maps for Scotland](https://www.scottishairquality.scot/data/mapping/data) (2021) from Scottish Air Quality
