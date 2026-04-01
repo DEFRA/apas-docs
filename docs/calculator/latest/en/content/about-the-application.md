@@ -17,4 +17,4 @@ Being an integrated online tool, it aims to modernise and simplify air pollution
 
 Upon the review of the application the planning authority or regulator, the in-combination archive will store the results of approved and pending applications. This ensures that the emissions database is fully up to date for inclusion in other planning and permitting applications, allowing in-combination assessments to be completed. 
 
- 
+This service is supported by funding from the Carrier Bag Levy by the Department of Agriculture, Environment and Rural Affairs (DAERA).
