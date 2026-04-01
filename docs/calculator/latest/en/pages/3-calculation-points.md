@@ -14,7 +14,7 @@ A default calculation in the service will include results for all designated nat
 
 You can also add your own assessment points (sometimes referred to as 'receptors' or 'calculation points').
 
-The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 200m x 200m) across the entire portion of the protected sites within the zone of influence around the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
+The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 250m x 250m) across the entire portion of the protected sites within the zone of influence around the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
 
 The service does not automatically save your entered data. You can export you input data to save your work in a format that can later be reimported, for example if you need to make amendments or further calculations.
 
@@ -32,6 +32,8 @@ You can add custom assessment points to your scenario by creating new assessment
 There are 2 options for creating new assessment points:
 - New assessment point allows you to manually place custom assessment points
 - Determine automatically will automatically place custom assessment points based on information you enter
+
+Results cannot be calculated for assessment points inside buildings. Make sure that your assessment points are outside the boundary of any buildings or have a height higher than than that of the building.
 
 <div id='section1a'></div>
 
