@@ -10,7 +10,7 @@ Within the 'Traffic direction speed and emission' tab you may add a new subsourc
 
 ## Time-varying profiles
 
-Predefined diurnal time-varying profiles have been calculated for road transport emission sources using statistics from the Department for Transport. Default diurnal time-varying profiles are assigned based on the scenario year, with all projects occurring after 2022 assigned the profile for 2022. All projects are assigned a continuous monthly time-varying profile by default. 
+Predefined diurnal time-varying profiles have been calculated for road transport emission sources using statistics from the Department for Transport. Default diurnal time-varying profiles are assigned based on the scenario year, with all projects occurring after 2024 assigned the profile for 2024. All projects are assigned a continuous monthly time-varying profile by default. 
 
 To show the list of predefined profiles and the option for creating a new profile, click the arrow next to 'Time-varying profiles'. You can click or hover over one of the predefined profiles to view the details. To create a new profile, choose 'Add new...' under the list of predefined profiles.
 
