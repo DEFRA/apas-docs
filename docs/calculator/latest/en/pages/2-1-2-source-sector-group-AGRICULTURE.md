@@ -4,8 +4,8 @@ The agriculture sector group includes the following sector options:
 - [animal housing](2-1-3-source-sector-FARM_ANIMAL_HOUSING.md)
 - [litter or manure storage](2-1-3-source-sector-MANURE_STORAGE.md)
 - [farmland](2-1-3-source-sector-FARMLAND.md)
-- [greenhouse horticulture](2-1-3-source-sector-GENERIC.md)
-- [other](2-1-3-source-sector-GENERIC.md)
+- greenhouse horticulture
+- other
 
 The farmland option is further broken down into:
 - farmland grazing
