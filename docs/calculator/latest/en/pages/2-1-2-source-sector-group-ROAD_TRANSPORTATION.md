@@ -13,7 +13,7 @@ When entering road barrier parameters, remember that:
 - Suggested default porosity values are provided based on the type of road barrier but you can enter custom values
 - Coverage refers to the percentage of the plan-view road area that is covered by overhanging features
 
-See the [ADMS-Urban User Guide](https://www.cerc.co.uk/environmental-software/assets/data/doc_userguides/CERC_ADMS-Urban5.1_User_Guide.pdf) (section 4.2, p. 128) for more information on the parameters used for road barriers. 
+See the [ADMS-Urban User Guide](https://www.cerc.co.uk/environmental-software/user-guides.html) (section 4.2, p. 128) for more information on the parameters used for road barriers. 
 
 ## Emission factors
 
