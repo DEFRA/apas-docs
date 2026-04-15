@@ -8,4 +8,4 @@ There are two ways to create a new custom monthly time-varying profile:
 
 When using either option, the total monthly factors must equal 12, to match the number of months in a year.
 
-For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS Urban user guide](https://www.cerc.co.uk/environmental-software/assets/data/doc_userguides/CERC_ADMS-Urban5.0_User_Guide.pdf) (section 4.1.1 of the guide).
+For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS Urban user guide](https://www.cerc.co.uk/environmental-software/user-guides.html) (section 4.1.1 of the guide).
