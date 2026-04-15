@@ -43,7 +43,7 @@ When using the 'New assessment point' option, you can manually place custom asse
 
 The method used to convert concentrations of oxides of nitrogen (NO<sub>x</sub>) to nitrogen dioxide (NO<sub>2</sub>) also depends on the sector group:
 - for the road transport sector group, the service uses the Defra NO<sub>x</sub> to NO<sub>2</sub> calculator
-- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO<sub>2</sub> concentrations, based on the Environment Agency's recommendation of assuming 70% conversion for assessments based on annual averages
+- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO<sub>2</sub> concentrations, based on the [Environment Agency's recommendation](https://www.gov.uk/guidance/environmental-permitting-air-dispersion-modelling-reports) of assuming 70% conversion for assessments based on annual averages
 
 You can specify a 'Custom primary NO<sub>2</sub> fraction (fNO<sub>2</sub>)' for each custom assessment point. This field is optional and can be left blank. Only expert users should edit this.
 
