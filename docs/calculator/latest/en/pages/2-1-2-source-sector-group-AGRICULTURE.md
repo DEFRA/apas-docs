@@ -22,7 +22,9 @@ By default, the temperature and density of emissions are assumed to match ambien
 
 ## Additional characteristics
 
-Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing emissions, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/), with additional emission factors indicated with a 'Northern Ireland' label from [Department of Agriculture, Environment and Rural Affairs (DAERA)](https://www.daera-ni.gov.uk/publications/northern-ireland-nh3-cattle-emission-factors) and [Environment Agency](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting). You can also enter your own emission factors using the 'custom specification' option (available under housing and manure storage).
+Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/). Additional cattle emission factors from [Department of Agriculture, Environment and Rural Affairs (DAERA)](https://www.daera-ni.gov.uk/publications/northern-ireland-nh3-cattle-emission-factors) and poultry emission factors from [Environment Agency](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) are noted with a Northern Ireland label. 
+
+For the animal housing and litter or manure storage sectors you can enter your own emission factors using the 'custom specification' option.
 
 For the greenhouse horticulutre and other sector options, there are no emission factors and emission rates must be entered in kilograms per year (kg/y).
 
