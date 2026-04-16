@@ -1,4 +1,4 @@
-# Emission Source: Agriculture
+# Emission source: Agriculture
 
 The agriculture sector group includes the following sector options:
 - [animal housing](2-1-3-source-sector-FARM_ANIMAL_HOUSING.md)
