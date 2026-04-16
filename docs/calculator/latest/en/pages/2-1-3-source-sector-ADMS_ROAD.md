@@ -1,12 +1,23 @@
-# Emission Source: Traffic
+# Emission source: Traffic
 
-## Road barriers
+## Source characteristics
 
-Use the source characteristics panel to enter information about barriers which could affect the spread of pollution away from roads, such as noise barriers, buildings, vegetation or tree belts. These are often known as 'street canyon effects.' The barriers on the left and right sides of the road are specified separately. The left and right sides are based on direction of travel from point A to point B on the road link as seen on the map. Suggested default porosity values are provided based on the type of road barrier but you can enter custom values. 
+Use the source characteristics panel to enter information about road width, elevation above ground level, road gradient and barriers.
+
+### Road barriers
+
+Road barriers, such as noise barriers, buildings, vegetation or tree belts, can affect the spread of pollution away from roads. These are often known as 'street canyon effects.' The barriers on the left and right sides of the road are specified separately. The left and right sides are based on direction of travel from point A to point B on the road link as seen on the map. 
+
+When entering road barrier parameters, remember that:
+- Width refers to the distance from the centre of the road to the barrier
+- Default porosity values are provided based on the type of road barrier but you can enter custom values
+- Coverage refers to the percentage of the plan-view road area that is covered by overhanging features
+
+See the [ADMS-Urban User Guide](https://www.cerc.co.uk/environmental-software/user-guides.html) (section 4.2, p. 128) for more information on the parameters used for road barriers. 
 
 ## Emission factors
 
-Within the 'Traffic direction speed and emission' tab you may add a new subsource which calculates oxides of nitrogen (NO<sub>x</sub>) and ammonia (NH<sub>3</sub>) emissions based on the number, type and speed of vehicles on the road link. Alternatively, you can enter your own emission factors using the 'custom specification' option.
+Within the 'Traffic direction speed and emission' tab you may add a new subsource which calculates oxides of nitrogen (NO<sub>x</sub>) and ammonia (NH<sub>3</sub>) emissions based on the number, type and speed of vehicles on the road link using the Emission Factor Toolkit (EFT), but note this feature is still in development. Alternatively, you can enter your own emission factors using the 'custom specification' option.
 
 ## Time-varying profiles
 
