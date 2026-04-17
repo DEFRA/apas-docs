@@ -1,6 +1,6 @@
-# Meteorological Settings
+# Meteorological settings
 
-You can select the appropriate meteorological site and year from the dropdown menus. Two types of meteorological data can be used:
+You must select a meteorological site and year for your calculation job. Two types of meteorological data are available:
 - **Numerical Weather Prediction (NWP)** - computer-modelled meterological data 
 - **observational** - measured meteorological data from specific sites
 
