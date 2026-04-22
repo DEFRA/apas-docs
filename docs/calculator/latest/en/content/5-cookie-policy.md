@@ -17,35 +17,39 @@ The 'Get an air pollution assessment' service puts small files (known as ‘cook
 
 When you use the 'Get an air pollution assessment' service, we’ll set a cookie to remember your progress through the service. These cookies do not store your personal data and are deleted once you’ve completed visit and closed your browser window.
 
-| Name | Purpose | Expires |
+| Name | Description | Expires |
 | ------- | ------- | ------- |
-| JSESSIONID cloud.session.token<br>AWSELBAuthSessionCookie-1<br>AWSELBAuthSessionCookie-0 | Session cookie | End of Session |
+| JSESSIONID | Used to store and identify a users' session ID for the purpose of managing user session on the website. | After each visit |
 
 **Language**
 
 The 'Get an air pollution assessment' service has the ability for multi-language and this cookie saves which language a user has chosen in the interface, if it is available.
 
-| Name | Purpose | Expires |
+| Name | Description | Expires |
 | ------- | ------- | ------- |
 | AERIUS_Locale | Saves which language a user has chosen in the interface, if it is available. | 1 year  |
 
-**Cookies message**
+**Cookie management**
 
-You may see a cookie banner when you visit the 'Get an air pollution assessment' service, inviting you to accept cookies or review your settings. This cookie ensures that your computer knows you’ve seen it and not to show it again, and also to remember your cookie preferences. This cookie is set by the website [CivicUK](https://www.civicuk.com/cookie-control). 
+You may see a cookie banner when you visit the 'Get an air pollution assessment' service, inviting you to accept cookies or review your settings. This information is stored in a cookie that ensures your computer knows you’ve seen it and not to show it again, and also to remember your cookie preferences. This cookie is created by [CivicUK](https://www.civicuk.com/cookie-control). 
 
-| Name | Purpose | Expires |
+| Name | Description | Expires |
 | ------- | ------- | ------- |
-| CookieControl | to remember the user's preferences about cookies | 1 year |
+| CookieControl | Stores the user's cookie consent preferences | 2 months |
 
-### Cookies that measure website use
+### Non-essential cookies
 
-We use Google Analytics cookies to collect information about how you use the 'Get an air pollution assessment' service. We use the information to compile reports on the number of visitors, the pages they visit and the time they spend, help us improve the service.
+**Cookies that measure service use**
+
+We use Google Analytics cookies to collect information about how you use the 'Get an air pollution assessment' service. We use the information to compile reports on the number of visitors, the pages they visit and the time they spend, to help us improve the service. We will only implement Google Analytics cookies if a user selects that preference in the cookie banner. 
 
 We use the following Google Analytics cookies:
 
 | Name | Purpose | Expires |
 | ------- | ------- | ------- |
-| _ga | These help us count | 2 years |
+| _ga | Google analytics cookie used to identify and track an individual user session. | 1 year |
+| _gid | Google analytics cookie ID used to distinguish users for 24 hours. | 24 hours |
+| _gat | Used to monitor number of Google Analytics server requests when using Google Tag Manager. | 1 minute |
 
 You can opt out of Google Analytics cookies on the 'Get an air pollution assessment' service website by clicking on the blue "C" icon in the bottom right corner of any page or by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
@@ -55,4 +59,4 @@ Other government digital services also use Google Analytics cookies to collect i
 
 ### Privacy
 
-The 'Get an air pollution assessment' service [Privacy Notice](https://docs-air-dev.aws.defra.cloud/content/4-privacy-statement.raw.html) has more information about the data we collect.
+The 'Get an air pollution assessment' service [Privacy Notice](https://docs.get-an-air-pollution-assessment.service.gov.uk/calculator/latest/en/content/4-privacy-statement.html) has more information about the data we collect.
