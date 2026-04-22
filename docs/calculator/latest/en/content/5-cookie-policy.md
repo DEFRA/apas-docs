@@ -60,4 +60,4 @@ Other government digital services also use Google Analytics cookies to collect i
 
 ### Privacy
 
-The 'Get an air pollution assessment' service [Privacy Notice](https://docs.get-an-air-pollution-assessment.service.gov.uk/calculator/latest/en/content/4-privacy-statement.html) has more information about the data we collect.
+The 'Get an air pollution assessment' service [Privacy Notice](4-privacy-statement.md) has more information about the data we collect.
