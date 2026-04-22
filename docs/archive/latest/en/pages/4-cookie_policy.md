@@ -18,7 +18,16 @@ When you use the 'Get an air pollution assessment' service, we’ll set a cookie
 
 | Name | Description | Expires |
 | ------- | ------- | ------- |
+| JSESSIONID | Used to store and identify a users' session ID for the purpose of managing user session on the website. | After each visit |
 | _oauth2_proxy_0/_1 | Tracks user sessions, storing OAuth2 ID tokens on the client-side, ensuring continued secure access. | After each visit |
+
+**Language**
+
+The 'Get an air pollution assessment' service has the ability for multi-language and this cookie saves which language a user has chosen in the interface, if it is available.
+
+| Name | Description | Expires |
+| ------- | ------- | ------- |
+| AERIUS_Locale | Saves which language a user has chosen in the interface, if it is available. | 1 year  |
 
 **Cookie management**
 
@@ -50,4 +59,4 @@ Other government digital services also use Google Analytics cookies to collect i
 
 ### Privacy
 
-The 'Get an air pollution assessment' service [Privacy Notice](https://docs.get-an-air-pollution-assessment.service.gov.uk/calculator/latest/en/content/4-privacy-statement.html) has more information about the data we collect.
+The 'Get an air pollution assessment' service [Privacy Notice](https://docs.get-an-air-pollution-assessment.service.gov.uk/archive/latest/en/pages/3-privacy_notice.html) has more information about the data we collect.
