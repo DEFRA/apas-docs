@@ -20,6 +20,7 @@ When you use the 'Get an air pollution assessment' service, we’ll set a cookie
 | Name | Description | Expires |
 | ------- | ------- | ------- |
 | JSESSIONID | Used to store and identify a users' session ID for the purpose of managing user session on the website. | After each visit |
+| _oauth2_proxy_0/_1 | Tracks user sessions, storing OAuth2 ID tokens on the client-side, ensuring continued secure access. | After each visit |
 
 **Language**
 
