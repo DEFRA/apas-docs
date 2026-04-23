@@ -112,3 +112,7 @@ You have the right to [make a complaint](https://ico.org.uk/make-a-complaint/) t
 ### Personal Information Charter
 
 Our [Personal Information Charter](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs/about/personal-information-charter) explains more about your rights over your personal data.
+
+### Version
+Last updated: 02/04/2026
+
