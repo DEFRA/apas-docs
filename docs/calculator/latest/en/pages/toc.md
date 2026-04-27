@@ -1,8 +1,8 @@
 # Table of contents
 
-### [**Home**](1-home.md)
+[**Home**](1-home.md)
 
-### [**Input**](2-sources.md)
+[**Input**](2-sources.md)
   - [Emission sources](2-1-1-input-source.md)
       - [Agriculture](2-1-2-source-sector-group-AGRICULTURE.md)
           - [Animal housing](2-1-3-source-sector-FARM_ANIMAL_HOUSING.md)
@@ -16,11 +16,15 @@
   - [Diurnal time-varying profiles](2-3-1-tvp-diurnal-create.md)
   - [Monthly time-varying profiles](2-3-2-tvp-monthly-create.md)
 
-### [**Assessment points**](3-calculation-points.md)
+[**Assessment points**](3-calculation-points.md)
 
-### [**Calculation jobs**](4-calculation-jobs.md)
+[**Calculation jobs**](4-calculation-jobs.md)
+- [Calculation job settings](4-1-calculation_job_settings.md)
+- [Development pressure search](4-2-development_pressure_search.md)
+- [Meteorological site settings](4-3-met_settings.md)
+- [Advanced settings](4-4-advanced_calc_settings.md)
 
-### **Results**
+[**Results**](5-results.md)
 - [Scenarios](5-1-results_scenarios.md)
 - [Results](5-results.md)
   - [Percentage critical level or critical load](5-3-1-results_cl.md)
@@ -29,6 +33,8 @@
   - [Habitat and species](5-3-4-results_habitat_and_species.md)
 - [Decision framework](5-4-decision_framework.md)
 
-### [**Export**](6-export.md)
+[**Export**](6-export.md)
 
-### [**Next steps**](7-next-steps.md)
+[**Next steps**](7-next-steps.md)
+
+[*Open the Help guide in a new tab*](https://docs.get-an-air-pollution-assessment.service.gov.uk/calculator/latest/en/pages/toc.html)
