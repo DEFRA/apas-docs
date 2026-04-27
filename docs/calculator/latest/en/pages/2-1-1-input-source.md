@@ -3,7 +3,9 @@
 - [Location](#section1)
 - [Time-varying Profiles](#section2)
 
-Emission sources are grouped into 5 sectors:
+## Sectors
+
+Emission sources are grouped into five sectors:
 - [energy](2-1-2-source-sector-group-ENERGY.md)
 - [agriculture](2-1-2-source-sector-group-AGRICULTURE.md)
 - [traffic](2-1-2-source-sector-group-ROAD_TRANSPORTATION.md)
@@ -20,7 +22,7 @@ To specify the location, click on the map to draw emission sources, or enter the
 
 *Please note that, if entering coordinates manually, the x and y coordinates should be separated with a space, not a comma.*
 
-When drawing a line or area source, double click to finish drawing. Once you have drawn a point, line or area source, you cannot move it.
+When drawing a line or area source, double click to finish drawing. Once you have drawn a line or area source, individual vertices can be moved but not the whole shape.
 
 Once the location has been entered and the sector selected, options to input characteristics relevant to the chosen sector will appear.
 

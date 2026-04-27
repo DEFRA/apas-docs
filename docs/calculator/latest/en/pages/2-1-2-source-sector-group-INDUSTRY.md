@@ -1,6 +1,6 @@
-# Emission Source: Industry
+# Emission source: Industry
 
-You should use this sector group for industrial emission sources that are not energy sources. Specify emissions in units of kilograms per year.
+You should use this sector group for industrial emission sources that are not energy sources. Specify emissions of NO<sub>x</sub> and NH<sub>3</sub> in units of kilograms per year (kg/y).
 
 This sector includes following options:
 - waste processing

@@ -4,10 +4,10 @@
 
 To create a calculation job, enter the Name of the calculation and customise the calculation by navigating through the drop down tabs. More information is available on the specific options as you navigate through, or click the links below.
 
-- [Calculation Job Settings](4-1-calculation_job_settings.md)
-- [Development Pressure Search](4-2-development_pressure_search.md)
-- [Meteorological Site Settings](4-3-met_settings.md)
-- [Advanced Settings](4-4-advanced_calc_settings.md)
+- [Calculation job settings](4-1-calculation_job_settings.md)
+- [Development pressure search](4-2-development_pressure_search.md)
+- [Meteorological site settings](4-3-met_settings.md)
+- [Advanced settings](4-4-advanced_calc_settings.md)
 
 ### Starting a calculation job
 

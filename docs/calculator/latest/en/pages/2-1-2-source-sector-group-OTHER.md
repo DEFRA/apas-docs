@@ -1,8 +1,8 @@
-# Emission Source: Other
+# Emission source: Other
 
 Use this  for emission sources that do not fit into any of the other sector groups. This can be used to add emissions defined by the user. 
 
-## Source Characteristics
+## Source characteristics
 
 Use the source characteristics panel to enter information about the emission source, such as the height and temperature.
 
@@ -10,6 +10,6 @@ You can choose to input the temperature of the emissions, the density of the emi
 
 ## Emissions
 
-Specify emissions of NO<sub>x</sub> and NH<sub>3</sub> in units of kilograms per year. 
+Specify emissions of NO<sub>x</sub> and NH<sub>3</sub> in units of kilograms per year (kg/y). 
 
 [Go to previous page](2-1-1-input-source.md)
