@@ -5,7 +5,7 @@
 - [Results](#section1)
 - [Map](#section2)
 
-The progress bar shows the modelling calculation progress, where you are in the queue and the estimated time to completion. The message centre will show when the calculation has started and is complete.
+The progress bar shows the modelling calculation progress, where you are in the queue and the estimated time to completion. You will receive a notification in the message centre when the calculation has started and when it is complete.
 
 You can switch between different calculation jobs using the drop down menu at the top left of the Results screen. 
 
