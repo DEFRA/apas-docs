@@ -22,7 +22,7 @@ By default, the temperature and density of emissions are assumed to match ambien
 
 ## Additional characteristics
 
-Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/). Additional cattle emission factors from [Department of Agriculture, Environment and Rural Affairs (DAERA)](https://www.daera-ni.gov.uk/publications/northern-ireland-nh3-cattle-emission-factors) and poultry emission factors from [Environment Agency](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) are noted with a Northern Ireland label. 
+Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/). Additional cattle emission factors from the [Department of Agriculture, Environment and Rural Affairs (DAERA)](https://www.daera-ni.gov.uk/publications/northern-ireland-nh3-cattle-emission-factors) and poultry emission factors from [Environment Agency](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) are noted with a Northern Ireland label. 
 
 For the animal housing and litter or manure storage sectors you can enter your own emission factors using the 'custom specification' option.
 
