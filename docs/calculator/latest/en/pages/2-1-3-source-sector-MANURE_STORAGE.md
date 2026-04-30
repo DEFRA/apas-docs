@@ -1,4 +1,4 @@
-## Emission Source: Litter or manure storage
+# Emission source: Litter or manure storage
 
 Litter or manure storage emission sources are broken down into subsources. 
 

@@ -1,4 +1,4 @@
-# Diurnal Time-varying profiles
+# Diurnal time-varying profiles
 
 Every emission source has an associated time-varying profile. The diurnal profile describes how the emissions from a source vary over the course of:
 - a day (split into 24 hours)
@@ -12,4 +12,4 @@ There are two ways to create a new custom diurnal time-varying profile:
 
 When using either option, the total hourly factors must equal 168, to match the number of hours in a week. When calculating this sum, each of the hourly factors entered in the 'Weekday avg' column is multiplied by 5, because there are 5 weekdays.
 
-For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS Urban user guide](https://www.cerc.co.uk/environmental-software/assets/data/doc_userguides/CERC_ADMS-Urban5.0_User_Guide.pdf) (section 4.1.1 of the guide).
+For further information about how time-varying profiles have been implemented in the service, please refer to the section on .fac files in the [ADMS-Urban user guide](https://www.cerc.co.uk/environmental-software/user-guides.html) (section 4.1.1 of the guide).

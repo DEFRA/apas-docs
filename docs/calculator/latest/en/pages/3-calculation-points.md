@@ -14,7 +14,7 @@ A default calculation in the service will include results for all designated nat
 
 You can also add your own assessment points (sometimes referred to as 'receptors' or 'calculation points').
 
-The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 200m x 200m) across the entire portion of the protected sites within the zone of influence around the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
+The service calculates the default results at a minimum resolution of 4 hectares (ha) (approximately 250m x 250m) across the entire portion of the protected sites within the zone of influence around the emission sources. It will calculate results at higher resolutions depending on how close the nature site is to an emission source. In most cases, you will not need to manually add assessment points within a designated site.
 
 The service does not automatically save your entered data. You can export you input data to save your work in a format that can later be reimported, for example if you need to make amendments or further calculations.
 
@@ -33,6 +33,8 @@ There are 2 options for creating new assessment points:
 - New assessment point allows you to manually place custom assessment points
 - Determine automatically will automatically place custom assessment points based on information you enter
 
+Results cannot be calculated for assessment points inside buildings. Make sure that your assessment points are outside the boundary of any buildings or have a height higher than than that of the building.
+
 <div id='section1a'></div>
 
 ### New assessment point
@@ -41,7 +43,7 @@ When using the 'New assessment point' option, you can manually place custom asse
 
 The method used to convert concentrations of oxides of nitrogen (NO<sub>x</sub>) to nitrogen dioxide (NO<sub>2</sub>) also depends on the sector group:
 - for the road transport sector group, the service uses the Defra NO<sub>x</sub> to NO<sub>2</sub> calculator
-- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO<sub>2</sub> concentrations, based on the Environment Agency's recommendation of assuming 70% conversion for assessments based on annual averages
+- for all other sector groups, NO<sub>x</sub> concentrations are multiplied by 0.7 to convert to NO<sub>2</sub> concentrations, based on the [Environment Agency's recommendation](https://www.gov.uk/guidance/environmental-permitting-air-dispersion-modelling-reports) of assuming 70% conversion for assessments based on annual averages
 
 You can specify a 'Custom primary NO<sub>2</sub> fraction (fNO<sub>2</sub>)' for each custom assessment point. This field is optional and can be left blank. Only expert users should edit this.
 

@@ -1,4 +1,4 @@
-# Emission Source: Energy
+# Emission source: Energy
 
 ## Source characteristics
 

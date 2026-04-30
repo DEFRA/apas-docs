@@ -26,6 +26,8 @@ For more information on the data used in the tool, please see the [Data Licenses
 
 If you are new to the 'Get an air pollution assessment' service, we recommend leaving this guide open as you work through your first assessment. The page shown here will change to match the tab you are using as you move through the service. You can also use the table of contents to choose which page to view.
 
+To see an example of setting up and running a calculation using this service, [watch this video](https://www.youtube.com/watch?v=YERDjDh18Os).
+
 <div id='section3'></div>
 
 ## Start
@@ -46,7 +48,7 @@ You can import the following file types:
 - .gml (Geography Markup Language)
 - .pdf
 - .zip
-- .upl
+- .upl - *this format is not fully supported, please check that your inputs are imported as expected before running your calculation*
 
 There are two import options available:
 - basic
@@ -64,7 +66,7 @@ This mode allows you to specify what to do with each scenario as they are import
 
 You can select the Advanced import mode option in Preferences. When you upload a new file, each scenario will appear as a separate line, even if multiple scenarios are contained within the original file.
 
-You can choose how to use each scenario. The options are:
+You can choose how to use each scenario, for example:
 - import it as a new scenario
 - add it to an existing scenario that has already been created or imported
 - merge it with another scenario that is being imported at the same time

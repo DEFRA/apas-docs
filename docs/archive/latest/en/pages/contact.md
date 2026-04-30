@@ -1,17 +1,14 @@
 
-# Get help with this service 
+# Get help with this service
 
-## Phone 
+We have a dedicated air quality helpdesk who can be contacted through the following methods:
 
-0330 124 2162 
+**Email: get.an.air.pollution.assessment@defra.gov.uk**
 
-Monday to Friday, 8:30am to 4pm (except statutory holidays) 
+We aim to reply within 2 working days.
 
-[Find out about call charges](https://www.gov.uk/call-charges) 
- 
+**Phone: 0330 124 2162** 
 
-## Email 
+Monday to Friday, 8:30am to 4pm (except statutory holidays).
 
-get.an.air.pollution.assessment@defra.gov.uk  
-
-We aim to reply within 2 working days. 
+[Find out about call charges](https://www.gov.uk/call-charges)

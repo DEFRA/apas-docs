@@ -1,11 +1,11 @@
-# Emission Source: Agriculture
+# Emission source: Agriculture
 
 The agriculture sector group includes the following sector options:
 - [animal housing](2-1-3-source-sector-FARM_ANIMAL_HOUSING.md)
-- [litter/manure storage](2-1-3-source-sector-MANURE_STORAGE.md)
+- [litter or manure storage](2-1-3-source-sector-MANURE_STORAGE.md)
 - [farmland](2-1-3-source-sector-FARMLAND.md)
-- [greenhouse horticulture](2-1-3-source-sector-GENERIC.md)
-- [other](2-1-3-source-sector-GENERIC.md)
+- greenhouse horticulture
+- other
 
 The farmland option is further broken down into:
 - farmland grazing
@@ -22,6 +22,10 @@ By default, the temperature and density of emissions are assumed to match ambien
 
 ## Additional characteristics
 
-Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing emissions, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/). There are additional Northern Ireland-specific emission factors indicated with a 'Northern Ireland' label. You can also enter your own emission factors using the 'custom specification' option (available under housing and manure storage) or by selecting the 'other' sector.
+Below the source characteristics panel will be additional panels that are relevant to the chosen emission source. For the housing, manure storage and farmland options, sources are subdivided into subsources and can be calculated using default emission factors from the [Simple Calculation of Atmospheric Impact Limits (SCAIL)](https://www.scail.ceh.ac.uk/). Additional cattle emission factors from the [Department of Agriculture, Environment and Rural Affairs (DAERA)](https://www.daera-ni.gov.uk/publications/northern-ireland-nh3-cattle-emission-factors) and poultry emission factors from [Environment Agency](https://www.gov.uk/guidance/ammonia-emission-factors-for-pig-and-poultry-screening-modelling-and-reporting) are noted with a Northern Ireland label. 
+
+For the animal housing and litter or manure storage sectors you can enter your own emission factors using the 'custom specification' option.
+
+For the greenhouse horticulutre and other sector options, there are no emission factors and emission rates must be entered in kilograms per year (kg/y).
 
 [Go to previous page](2-1-1-input-source.md)
