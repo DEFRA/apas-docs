@@ -32,7 +32,7 @@ A calculation job is a group of scenarios that will be calculated together as a 
 
 The calculation job type determines what is calculated and how the scenarios are used in the calculation. Different calculation job types use different scenario types. For more detail about the scenario and calculation job types, [watch this video](https://www.youtube.com/watch?v=-8B3_9F_pYU).
 
-The different calculation job types are
+The different calculation job types are:
 - **process contribution** - a project scenario is calculated, optionally with a reference and/or an off-site reduction scenario according to the equation shown below
 > PC = (project scenario results) – (reference scenario results) – (off-site reduction results)
 - **maximum temporary effect** - the maximum of one or more temporary scenarios is calculated, optionally with a reference and/or an off-site reduction scenario
@@ -53,7 +53,7 @@ The different calculation job types are
 
 <div id='section2c'></div>
 
-### Other Calculation job settings
+### Other calculation job settings
 
 Other settings within this tab allow you to select:
 - the country
