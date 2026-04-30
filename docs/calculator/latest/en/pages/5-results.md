@@ -23,7 +23,7 @@ Use the **Result** dropdown to select the type of result you want to see:
 
   > PC = (project scenario results) – (reference scenario results) – (off-site reduction results)
 
-  If there is no Reference scenario or off-site reduction scenario included in the calculation, then the process contribution is simply equal to the scenario contribution. This type of result is only available for process contribution and in-combination process contribution calculation job types.
+  If there is no reference scenario or off-site reduction scenario included in the calculation, then the process contribution is simply equal to the scenario contribution. This type of result is only available for process contribution and in-combination process contribution calculation job types.
   
 - **In-combination** (IPC) shows the total of the process contribution and any in-combination scenarios
 - **Archive contribution** shows the contribution only from the archive scenarios added
