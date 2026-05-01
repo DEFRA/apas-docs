@@ -9,4 +9,4 @@
 
 # Accessibility Statement
 
-Accessibility Statement requires updating by Jon.
+wording to follow
