@@ -22,7 +22,13 @@ To specify the location, click on the map to draw emission sources, or enter the
 
 *Please note that, if entering coordinates manually, the x and y coordinates should be separated with a space, not a comma.*
 
-When drawing a line or area source, double click to finish drawing. Once you have drawn a line or area source, individual vertices can be moved but not the whole shape.
+When drawing a line or area/volume source:
+- double-click to finish the shape
+- click, hold and drag a vertex to adjust the position after drawing the shape
+- click, hold and drag on line between vertices to add a new vertex
+- alt + click on a vertex remove it
+
+For more help placing and drawing emission sources, buildings and custom assessment points, [watch this video](https://youtu.be/i02_RnHsbLo).
 
 Once the location has been entered and the sector selected, options to input characteristics relevant to the chosen sector will appear.
 
